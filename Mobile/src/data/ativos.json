@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "nome": "Tesouro Selic",
+    "classe": "Renda Fixa",
+    "risco": 1,
+    "liquidez": "D+0"
+  },
+  {
+    "id": "2",
+    "nome": "Fundo Imobiliário XPTO",
+    "classe": "FII",
+    "risco": 3,
+    "liquidez": "D+2"
+  },
+  {
+    "id": "3",
+    "nome": "Ações Petrobras",
+    "classe": "Ações",
+    "risco": 4,
+    "liquidez": "D+2"
+  },
+  {
+    "id": "4",
+    "nome": "CDB Banco XPTO",
+    "classe": "Renda Fixa",
+    "risco": 2,
+    "liquidez": "D+30"
+  }
+]
