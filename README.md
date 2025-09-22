@@ -38,8 +38,8 @@ Senha: 1234
 ##  Como Rodar o Projeto  
 1. Clone este repositório: 
 bash
-git clone <link-do-repo>
-cd <pasta-do-projeto>
+git clone [<link-do-repo>](https://github.com/Rafaelfranck/Sprints_mobile.git)
+cd Mobile
 
 2. Instale as dependências:
 npm install
